@@ -1,4 +1,4 @@
-# Javascript functions (integrated with bash) and sample SQL Quries
+# Javascript functions (integrated with bash) and sample SQL Queries
 
 ### Clone repository
 
