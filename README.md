@@ -3,7 +3,7 @@
 ### Clone repository
 
 ```sh
-git clone https://github.com/arcbjorn/scripts-sql-quieries.git
+git clone https://github.com/arcbjorn/scripts-sql-queries.git
 ```
 
 ### Make sure you have node installed
